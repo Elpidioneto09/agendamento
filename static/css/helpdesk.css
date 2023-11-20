@@ -1,0 +1,35 @@
+
+
+  .minha-classe {
+    width: 100%;
+    margin: 0 auto;
+    background-color: #ece7e7;
+    padding: 20px;
+    box-sizing: border-box;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.dados-cliente {
+    font-family: Arial, sans-serif;
+    color: hsl(0, 0%, 20%);
+}
+/* .button {
+    margin-left: 1000px; 
+  } */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    background-color: #c91e1e;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 100%;
+    margin: 0 auto;
+}
+
